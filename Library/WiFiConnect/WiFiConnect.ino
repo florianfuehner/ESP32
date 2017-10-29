@@ -4,8 +4,8 @@ Developed and published by Florian Fühner.
 Licence: open and free. 
 Description of functions: 
   void WiFiConnect(const char* _ssid, const char* _password):
-        const char* _ssid: pulls the WiFi SSID
-        const char* _password: pulls the Password of the WiFi
+        const char* _ssid: gets the WiFi SSID
+        const char* _password: gets the Password of the WiFi
     the funktion itself connects to the ESP 32 automatically to the 
     it waits until the device is connected to the WiFi
     and if the WiFi is disabled, the function restarts the process of connection frequently
