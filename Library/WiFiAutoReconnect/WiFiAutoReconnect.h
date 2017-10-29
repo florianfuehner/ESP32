@@ -1,5 +1,8 @@
 /*
-Headerfile for WiFiAutoReconnect.ino
+Headerfile for  WiFiAutoReconnect.ino
+For further documention of the functions have a look at the comments of the .ino file. 
+The variables declared as private are not reachable from your program. 
+The variables declared as public are reachable from your program. 
 */
 
 #ifndef WiFiAutoReconnect_h
